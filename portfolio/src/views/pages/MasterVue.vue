@@ -77,7 +77,7 @@
 
 <script>
 export default{
-    name:'Masterf',
+    name:'MasterVue',
 }
 
 
